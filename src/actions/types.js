@@ -1,0 +1,9 @@
+export const GET_LOGS = "GET_LOGS";
+// export const GET_LOGS = "GET_LOGS";
+// export const GET_LOGS = "GET_LOGS";
+// export const GET_LOGS = "GET_LOGS";
+// export const GET_LOGS = "GET_LOGS";
+export const UPDATE_EMAIL = "UPDATE_EMAIL";
+export const UPDATE_ID = "UPDATE_ID";
+export const UPDATE_DATA = "UPDATE_DATA";
+export const UPDATE_CURRENT_DATA = "UPDATE_CURRENT_DATA";
